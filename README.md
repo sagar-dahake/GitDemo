@@ -1,3 +1,3 @@
 # GitDemo
-Session regarding GIT
+Session regarding GIT.
 It is strictly for demo purpose
